@@ -5,9 +5,10 @@ maxowntown/
 ├── requirements.txt
 └── README.md
 
+
+
 📁 (bot.py)
 import discord
-
 TOKEN = 'YOUR_BOT_TOKEN_HERE'  # Replace this with your bot token
 USER_ID = 123456789012345678  # Replace with your Discord user ID
 EMOJI = '🔥'  # Change to any emoji you want
